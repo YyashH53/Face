@@ -1,8 +1,7 @@
 # How to run the project 
-1. Clone : git clone <url>
-2. Activate the Virtual env : 
-  source venv/Scripts/activate
-3. Run the python file : 
-  ~~~
-  python <filename>
-  ~~~
+~~~
+git clone https://github.com/yagyesh-bobde/Face-Landmarks/
+cd Face-Landmarks
+source venv/Scripts/activate
+python <finame>
+~~~
