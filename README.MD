@@ -5,3 +5,8 @@ cd Face-Landmarks
 source venv/Scripts/activate
 python <finame>
 ~~~
+
+
+# Working 
+
+![](assets/Image/Screenshot 2022-02-10 100144.png)
