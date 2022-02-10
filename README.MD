@@ -3,4 +3,6 @@
 2. Activate the Virtual env : 
   source venv/Scripts/activate
 3. Run the python file : 
-  ~~~python <filename>~~~
+  ~~~
+  python <filename>
+  ~~~
