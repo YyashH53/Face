@@ -9,4 +9,4 @@ python <finame>
 
 # Working 
 
-![](assets/Image/Screenshot 2022-02-10 100144.png)
+![](assets/Images/Screenshot 2022-02-10 100144.png)
