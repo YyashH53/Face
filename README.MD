@@ -6,4 +6,4 @@ source venv/Scripts/activate
 python <finame>
 ~~~
 
-
+![](assets/Images/Screenshot 2022-02-10 100144.png)
