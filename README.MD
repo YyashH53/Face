@@ -7,6 +7,3 @@ python <finame>
 ~~~
 
 
-# Working 
-
-![](assets/Images/Screenshot 2022-02-10 100144.png)
