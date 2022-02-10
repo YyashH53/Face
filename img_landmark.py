@@ -24,7 +24,7 @@ if results.multi_face_landmarks:
         #     cv2.putText(img,f'{id}',(x,y),cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,255),2)
 
 
-img = cv2.resize(img, (1080,720))
+img = cv2.resize(img, (640,480))
 cv2.imshow("Image", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
